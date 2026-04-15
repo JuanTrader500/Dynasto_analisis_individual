@@ -11,4 +11,4 @@ data/
 *.csv
 
 # Ignore Python source files
-*.py
+.py
