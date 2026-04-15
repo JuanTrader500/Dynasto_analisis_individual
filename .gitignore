@@ -5,3 +5,10 @@ _pycache/
 __pycache__/
 data/
 .claude/
+/CLAUDE.md
+
+# Ignore CSV artifacts and datasets
+*.csv
+
+# Ignore Python source files
+*.py
